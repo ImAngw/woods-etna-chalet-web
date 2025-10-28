@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import mainVerticalImage from "../assets/mobile_imgs/findUsImgV.png";
+import mainVerticalImage from "../assets/mobile_imgs/findUsImgV.jpg";
 import mainHorizontalImage from "../assets/desktop_imgs/findUsImgH.png";
 import MyFooter from "../components/MyFooter";
 import Header from "../components/Header";

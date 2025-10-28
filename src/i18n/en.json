@@ -1,0 +1,230 @@
+
+{
+  "_comment2": "FOOTER",
+  "_comment3": "---------------------------------------------------------------------------------------------------------",
+  "contact": "Contact Information",
+  "social": "social",
+
+
+
+
+  "_comment": "HOME",
+  "_comment1": "---------------------------------------------------------------------------------------------------------",
+
+
+  "chalet_title": "Our chalet",
+  "home_paragraph_1": "Immersed in the heart of Etna Park, our wooden chalet is one of the highest on the volcano and offers an authentic mountain experience in complete exclusivity.",
+  "home_paragraph_2": "The property is rented entirely for private use. It features:",
+  "4beds": "4 beds divided into 2 bedrooms",
+  "kitchen": "Fully equipped kitchen",
+  "wifi": "Super fast Wi-Fi",
+  "bbq": "BBQ Area",
+  "full_furn": "Fully furnished",
+  "home_paragraph_3": "It is perfect for couples, families, and groups of friends seeking a comfortable retreat, surrounded by nature and far from the hustle and bustle.",
+
+  "activity_title": "Suggested activities",
+  "home_paragraph_4": "The chalet is the perfect starting point to explore Etna’s trails, go hiking, discover the surrounding nature, or simply relax while listening to the silence of the forest.",
+  "home_paragraph_5": "If you’re looking for adventures, the activities we offer are:",
+  "quad": "Quad excursions",
+  "bike": "Bike tours",
+  "horse": "Horseback riding",
+  "trekking": "Hiking guide",
+  "helicopter": "Helicopter tours",
+
+  "find_us_title": "Where to find us",
+  "home_paragraph_6": "Strada Milia S/N, Villaggio Valentino, Ragalna (CT).",
+
+  "close_to_us": "Nearby",
+  "home_paragraph_7": "Although the chalet is located away from the city and immersed in nature, many tourist attractions can be easily reached within a few minutes.",
+  "home_paragraph_8": "Among these, you will find:",
+  "adv_park": "Adventure Park (3km)",
+  "ski1": "Cross-country ski track (4km)",
+  "ski2": "Ski slopes",
+  "sapieza": "Rifugio sapienza",
+  "cable": "cable car",
+  "altomontana": "Altomontana track",
+  "home_paragraph_9": "Just a few minutes by car, you’ll also find several restaurants where you can enjoy pleasant moments.",
+
+  "book_now": "Book Now!",
+  "home_paragraph_10": "Book your exclusive stay now and enjoy an unforgettable experience on Etna!",
+
+
+
+
+
+  "_comment4": "Activities",
+  "_comment5": "---------------------------------------------------------------------------------------------------------",
+  "act_par_1": "Looking for adventure?",
+  "act_par_2": "Fill your days with our experiences.",
+  "act_par_3": "Create memories from your vacation.",
+  "quad_desc": "Enjoy Quad excursion",
+  "bike_desc": "Enjoy bike excursion",
+  "horse_desc": "Enjoy horse excursion",
+  "trekking_desc": "Enjoy trekking excursion",
+  "helicopter_desc": "Enjoy helicopter tour",
+
+
+
+  "_comment6": "FindUs",
+  "_comment7": "---------------------------------------------------------------------------------------------------------",
+  "find_par_1": "Want to come visit us?",
+  "find_par_2": "We are located on Strada Milia S/N, Villaggio Valentino, Ragalna (CT), at an altitude of 1500 meters on the southern slope.",
+  "lat": "latitude: 37.6917°",
+  "long": "longitude: 14.9483°",
+  "high": "high: ... meters above sea level",
+  "find_par_3": "The chalet is surrounded by nature and can be reached by car via a private road.",
+  "find_par_4": "During the winter period, from November to March, it is mandatory to have snow chains on board or winter tires.",
+
+
+
+  "_comment8": "CoseToUs",
+  "_comment9": "---------------------------------------------------------------------------------------------------------",
+  "close_par_1": "Services Near Us",
+  "close_par_2": "Although the chalet is located away from the city and surrounded by nature, many tourist attractions can be easily reached within a few minutes by car.",
+  "adv_desc": "Enjoy",
+  "ski1_desc": "Enjoy",
+  "ski2_desc": "Enjoy",
+  "sapienza_desc": "Enjoy",
+  "cable_desc": "Enjoy",
+  "altomontana_desc": "Enjoy",
+
+
+
+
+  "_comment10": "BookNow",
+  "_comment11": "---------------------------------------------------------------------------------------------------------",
+  "book_par_1": "Book your stay",
+  "book_par_2": "Check availability and select your dates.",
+  "guests": "Guests",
+  "pets": "Pets",
+  "yes": "yes",
+  "no": "no",
+  "book_par_3": "*The presence of any pets incurs an additional charge of €10.",
+  "your_selection": "your selection",
+  "check_in": "from 2:00 PM",
+  "check_out": "at 11:00 AM",
+  "bill": "Your bill is:",
+  "wanna_conf": "Wanna Confirm?",
+  "date_before": "Select the dates before!",
+  "book_inst_1": "To confirm your reservation, contact us on ",
+  "book_inst_2": "\n Booking implies acceptance of the rules: ",
+  "book_message_1": "I am interested in staying from ",
+  "to": " to ",
+  "book_message_2": "\nNumber of guests: ",
+  "book_message_3": "\nPets: ",
+
+
+
+
+
+
+
+  "_comment12": "Conditions",
+  "_comment13": "---------------------------------------------------------------------------------------------------------",
+
+  "cond_title": "Terms and Conditions – Woods Etna Chalet",
+  "cond_1": "These Terms and Conditions govern the use of the online booking system provided by Woods Etna Chalet. By using our booking system, you fully accept the conditions stated in this document. We invite you to carefully read all information before proceeding with your booking.",
+  "cond_2": "1. Services included in the price",
+  "cond_2_1": "* Supply of pellet for heating",
+  "cond_2_2": "* Tourist taxes",
+  "cond_2_3": "* Supply of bed linen and towels",
+  "cond_3": "2. Check-in and Check-out",
+  "cond_3_1": "* Check-in is available from 2:00 PM",
+  "cond_3_2": "* Check-out must be completed no later than 11:00 AM",
+  "cond_3_3": "* Please communicate your check-in time at least 12 hours before arrival",
+  "cond_4": "3. Stay Conditions",
+  "cond_4_1": "House rules:",
+  "cond_4_2": "* Moving furniture is prohibited",
+  "cond_4_3": "* Parties or events are not allowed",
+  "cond_4_4": "* Smoking inside the property is prohibited",
+  "cond_4_5": "* Pets are allowed",
+  "cond_4_6": "* We are not responsible for any accidents, injuries or damages to property/people during the stay.",
+  "cond_4_7": "* Any damage to objects or property will be charged to the responsible guest.",
+  "cond_5": "4. Personal Data Processing",
+  "cond_5_1": "Data Controller: Woods Etna Chalet",
+  "cond_5_2": "Type of data collected:",
+  "cond_5_3": "* Identification data (name, surname, date of birth)",
+  "cond_5_4": "* Stay-related data (dates, number of guests, special requests)",
+  "cond_5_5": "Purpose of processing: booking management, contractual and tax obligations, administrative communications.",
+  "cond_6": "5. Data Retention",
+  "cond_6_1": "Data will be stored for the time necessary for the stated purposes and subsequently deleted or anonymized.",
+  "cond_6_2": "Booking data: 1 year. Fiscal data: as required by law.",
+  "cond_7": "6. Data Sharing",
+  "cond_7_1": "Data may be shared with:",
+  "cond_7_2": "* Payment providers (e.g. PayPal, bank)",
+  "cond_7_3": "* External agencies or managers",
+  "cond_7_4": "* Public authorities (e.g. Police)",
+  "cond_8": "7. Data Transfer Abroad",
+  "cond_8_1": "Any transfers outside the EU will take place in compliance with GDPR using legally recognized mechanisms.",
+  "cond_9": "8. User Rights",
+  "cond_9_1": "You have the right to access, correct, delete, restrict or object to the processing of your data, as well as request data portability.",
+  "cond_10": "9. Consent",
+  "cond_10_1": "By accepting these Terms and Conditions, the user consents to the processing of personal data.",
+  "cond_11": "10. Privacy Policy Changes",
+  "cond_11_1": "Any changes will be communicated through the contact details provided.",
+  "cond_12": "Cancellation Policy",
+  "cond_12_1": "* Free cancellation: up to 15 days before arrival",
+  "cond_12_2": "* Penalty: after 15 days the full booking amount must be paid.",
+  "cond_12_3": "* Modifications: possible within 15 days before check-in, subject to availability and price changes",
+  "cond_12_4": "* Cancellation by the property: full refund",
+  "cond_12_5": "* No-show: full charge",
+  "cond_13": "Payment Details",
+  "cond_13_1": "* Deposit of 40% required via bank transfer",
+  "cond_13_2": "* Balance due on check-in day",
+  "cond_13_3": "* Accepted methods: bank transfer, PayPal",
+
+
+
+
+
+  "privacyPolicy": {
+    "title": "Privacy Policy – Woods Etna Chalet",
+    "lastUpdate": "Last updated: October 27, 2025",
+    "intro": "This website, dedicated to Woods Etna Chalet, is for informational purposes only and does not directly collect personal data from users.",
+    "sections": [
+      {
+        "heading": "1. Data Controller",
+        "content0": "Woods Etna Chalet",
+        "content1": "Contact email: info@woodsetnachalet.it"
+      },
+      {
+        "heading": "2. Data Collected Automatically",
+        "content0": "During browsing, some data may be collected automatically in an anonymous and aggregated form, such as:",
+        "content1": "• Partially anonymized IP address",
+        "content2": "• Type of device and browser used",
+        "content3": "• Date and time of access",
+        "content4": "These data are used only for technical and security purposes and do not allow user identification."
+      },
+      {
+        "heading": "3. External Services Used",
+        "subsections": [
+          {
+            "subheading": "a) Google Maps (iframe)",
+            "content": "The site integrates a map via Google Maps iframe to show the location of the property. Google may set essential technical cookies to ensure the proper functioning of the service. For more information: Google Privacy Policy."
+          },
+          {
+            "subheading": "b) Supabase (read-only)",
+            "content": "The site uses an external service (Supabase) to display the already booked dates of the chalet. Access is read-only via anon key and does not involve the collection of personal data from the user."
+          },
+          {
+            "subheading": "c) External links to social media and contacts",
+            "content": "The site may include buttons or links to WhatsApp, Instagram, Facebook, or other external services. By clicking these links, the user is redirected outside the site and data processing follows the respective service's privacy policies."
+          },
+          {
+            "subheading": "d) WhatsApp contacts",
+            "content": "By clicking the WhatsApp button, the user can contact the property directly via the WhatsApp application. The management of message data is subject to WhatsApp/Meta privacy policy: WhatsApp Privacy Policy."
+          }
+        ]
+      },
+      {
+        "heading": "4. Cookies",
+        "content": "The site uses only essential technical cookies necessary for the operation of the site and the above services. Profiling or tracking cookies are not used. Therefore, prior user consent is not required."
+      },
+      {
+        "heading": "5. User Rights",
+        "content": "Users can contact the data controller at the email address above to request clarifications or exercise the rights provided by Articles 15-22 of the GDPR (access, deletion, restriction, etc.)."
+      }
+    ]
+  }
+
+}

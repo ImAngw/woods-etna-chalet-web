@@ -1,0 +1,228 @@
+
+{
+  "_comment2": "FOOTER",
+  "_comment3": "---------------------------------------------------------------------------------------------------------",
+  "contact": "Contatti",
+  "social": "social",
+
+
+
+
+
+  "_comment": "HOME",
+  "_comment1": "---------------------------------------------------------------------------------------------------------",
+  "chalet_title": "Il nostro chalet",
+  "home_paragraph_1": "Immerso nel cuore del Parco dell’Etna, il nostro chalet in legno è tra i più alti del vulcano e offre un’esperienza autentica di montagna, in totale esclusività.",
+  "home_paragraph_2": "La struttura viene affittata interamente ad uso privato. Essa dispone di:",
+  "4beds": "4 posti letto suddivisi in 2 camere",
+  "kitchen": "Cucina attrezzata",
+  "wifi": "Wi-Fi super veloce",
+  "bbq": "Area BBQ",
+  "full_furn": "Completamente attrezzata",
+  "home_paragraph_3": "È perfetto per coppie, famiglie e gruppi di amici che cercano unrifugio confortevole, immerso nella natura e lontano dal caos.",
+
+  "activity_title": "Attività proposte",
+  "home_paragraph_4": "Lo chalet è il punto di partenza ideale per esplorare i sentieri dell’Etna, fare escursioni, scoprire la natura circostante o semplicemente rilassarti ascoltando il silenzio del bosco.",
+  "home_paragraph_5": "Se cerchi avventure, le attività che ti proponiamo sono:",
+  "quad": "Escursioni in Quad",
+  "bike": "Escursioni in bici",
+  "horse": "Escursioni a cavallo",
+  "trekking": "Guida escursionistica",
+  "helicopter": "tour in elicottero",
+
+  "find_us_title": "Dove trovarci",
+  "home_paragraph_6": "Strada Milia S/N, Villaggio Valentino, Ragalna (CT).",
+
+  "close_to_us": "Vicino a noi",
+  "home_paragraph_7": "Sebbene lo chalet si trovi lontano dalla città e immerso nella natura, molte sono le attrazioni turistiche che possono essere comodamente raggiunte in pochi minuti.",
+  "home_paragraph_8": "Tra queste troviamo:",
+  "adv_park": "Parco avventura (3km)",
+  "ski1": "Pista da sci di fondo (4km)",
+  "ski2": "Piste da sci",
+  "sapienza": "Rifugio sapienza",
+  "cable": "funivia",
+  "altomontana": "Pista Altomontana",
+  "home_paragraph_9": "A pochi minuti di macchina sono disponibili anche diversi ristoranti dove potrai passare momenti cordiali.",
+
+  "book_now": "Prenota ora!",
+  "home_paragraph_10": "Prenota ora il tuo soggiorno esclusivo e vivi un’esperienza indimenticabile sull’Etna!",
+
+
+
+
+
+  "_comment4": "Activities",
+  "_comment5": "---------------------------------------------------------------------------------------------------------",
+  "act_par_1": "Bisogno di avventure?",
+  "act_par_2": "Riempi le tue giornate con le nostre esperienze.",
+  "act_par_3": "Costruisci i ricordi della tua vacanza.",
+  "quad_desc": "Goditi l'escursione in Quad",
+  "bike_desc": "Goditi l'escursione in bici",
+  "horse_desc": "Goditi l'escursione a cavallo",
+  "trekking_desc": "Goditi l'escursione trekking",
+  "helicopter_desc": "Goditi il tour in elicottero",
+
+
+
+  "_comment6": "FindUs",
+  "_comment7": "---------------------------------------------------------------------------------------------------------",
+  "find_par_1": "Vuoi venirci a trovare?",
+  "find_par_2": "Ci troviamo in Strada Milia S/N, Villaggio Valentino, Ragalna (CT), a quota 1500m sul versante sud.",
+  "lat": "latitudine: 37.6917°",
+  "long": "longitudine: 14.9483°",
+  "high": "altezza: .... metri sul livello del mare",
+  "find_par_3": "Lo chaletè immerso nella natura e si può raggiungere con la propria auto tramite una strada privata.",
+  "find_par_4": " Nel periodo invernale, da novembre a marzo, è obbligatorio avere le catene da neve a bordo o gli pneumatici invernali.",
+
+
+
+
+  "_comment8": "CoseToUs",
+  "_comment9": "---------------------------------------------------------------------------------------------------------",
+  "close_par_1": "I servizi vicino a noi",
+  "close_par_2": "Sebbene lo chalet si trovi lontano dalla città e immerso nella natura, molte sono le attrazioni turistiche che possono essere comodamente raggiunte in pochi minuti di macchina.",
+  "adv_desc": "Goditi",
+  "ski1_desc": "Goditi",
+  "ski2_desc": "Goditi",
+  "sapienza_desc": "Goditi",
+  "cable_desc": "Goditi",
+  "altomontana_desc": "Goditi",
+
+
+
+
+  "_comment10": "BookNow",
+  "_comment11": "---------------------------------------------------------------------------------------------------------",
+  "book_par_1": "Prenota il tuo soggiorno",
+  "book_par_2": "Verifica la disponibilità e seleziona le tue date.",
+  "guests": "Ospiti",
+  "pets": "Animali",
+  "yes": "Si",
+  "no": "no",
+  "book_par_3": "*La presenza di eventuali animali comporta un extra di 10€.",
+  "your_selection": "Le tue date",
+  "check_in": "dalle 14:00",
+  "check_out": "alle 11:00",
+  "bill": "Il totale è:",
+  "wanna_conf": "Vuoi bloccare le date?",
+  "date_before": "Prima seleziona le date!",
+  "book_inst_1": "Per confermare, scrivici su ",
+  "book_inst_2": "\n La prenotazione comporta l'accettazione del regolamento:",
+  "book_message_1": "Sono interessato al pernottamento nelle date che vanno dal ",
+  "to": " al ",
+  "book_message_2": "\nNumero di ospiti: ",
+  "book_message_3": "\nAnimali: ",
+
+
+
+
+  "_comment12": "Conditions",
+  "_comment13": "---------------------------------------------------------------------------------------------------------",
+
+  "cond_title": "Termini e Condizioni – Woods Etna Chalet",
+  "cond_1": " I presenti Termini e Condizioni regolano l'utilizzo del sistema di prenotazione online messo a disposizione da Woods Etna Chalet. Utilizzando il nostro sistema di prenotazione, accetti integralmente le condizioni indicate in questo documento. Ti invitiamo a leggere attentamente tutte le informazioni prima di procedere con la tua prenotazione.",
+  "cond_2": "1. Servizi inclusi nel prezzo",
+  "cond_2_1": "* Fornitura di pellet per il riscaldamento",
+  "cond_2_2": "* Tasse di soggiorno ",
+  "cond_2_3": " * Fornitura di lenzuola e asciugamani",
+  "cond_3": "2. Check-in e Check-out",
+  "cond_3_1": "* Il check-in può essere effettuato dalle ore 14:00",
+  "cond_3_2": "* Il check-out entro e non oltre le ore 11:00 ",
+  "cond_3_3": "* Comunicare l'orario di check-in almeno 12 ore prima dell'arrivo",
+  "cond_4": "3. Condizioni di Soggiorno",
+  "cond_4_1": "Regole della casa:",
+  "cond_4_2": "* Vietato spostare i mobili ",
+  "cond_4_3": "* Vietato organizzare feste o eventi ",
+  "cond_4_4": "* Vietato fumare all'interno della struttura",
+  "cond_4_5": "* Animali ammessi",
+  "cond_4_6": "* Non siamo responsabili per eventuali incidenti, infortuni o danni a cose / persone durante il soggiorno.",
+  "cond_4_7": "* Eventuali danni a oggetti o strutture saranno a carico dell’ospite responsabile.",
+  "cond_5": "4. Trattamento dei Dati Personali",
+  "cond_5_1": "Titolare del trattamento: Woods Etna Chalet",
+  "cond_5_2": "Tipologia di dati raccolti:",
+  "cond_5_3": "* Dati identificativi (nome, cognome, data di nascita) ",
+  "cond_5_4": "* Dati relativi al soggiorno (date, numero ospiti, richieste speciali)",
+  "cond_5_5": "Finalità del trattamento: gestione prenotazione, obblighi contrattuali e fiscali, comunicazioni amministrative.",
+  "cond_6": "5. Conservazione dei Dati",
+  "cond_6_1": "I dati saranno conservati per il tempo necessario alle finalità indicate e successivamente eliminati o anonimizzati.",
+  "cond_6_2": "I dati prenotazione: 1 anno. Dati fiscali: come previsto dalla normativa.",
+  "cond_7": "6. Comunicazione dei Dati",
+  "cond_7_1": "I dati possono essere comunicati a:",
+  "cond_7_2": "* Fornitori di pagamenti (es. PayPal, banca) ",
+  "cond_7_3": "* Agenzie o gestori esterni",
+  "cond_7_4": "* Autorità pubbliche (es. Polizia)",
+  "cond_8": "7. Trasferimento dei Dati all'Estero",
+  "cond_8_1": "Eventuali trasferimenti fuori UE avverranno nel rispetto del GDPR tramite strumenti legali riconosciuti.",
+  "cond_9": "8. Diritti dell’Interessato",
+  "cond_9_1": "Hai diritto di accedere, correggere, cancellare, limitare o opporsi al trattamento, nonché richiedere portabilità dei dati.",
+  "cond_10": "9. Consenso",
+  "cond_10_1": "Accettando questi Termini e Condizioni, l’utente acconsente al trattamento dei dati personali.",
+  "cond_11": "10. Modifiche alla Privacy Policy",
+  "cond_11_1": "Eventuali modifiche verranno comunicate tramite i recapiti forniti.",
+  "cond_12": "Politiche di Cancellazione",
+  "cond_12_1": "* Cancellazione gratuita: fino a 15 giorni prima dell’arrivo",
+  "cond_12_2": "* Penale: dopo i 15 giorni bisognerà saldare l’intero importo della prenotazione.",
+  "cond_12_3": "* Modifiche: possibili entro 15 giorni dal check-in, soggette a disponibilità e variazioni prezzo ",
+  "cond_12_4": "* Cancellazione da parte della struttura: rimborso totale",
+  "cond_12_5": "* Mancata presentazione: addebito totale",
+  "cond_13": "Politiche di Cancellazione",
+  "cond_13_1": "Dettagli di Pagamento",
+  "cond_13_2": "* Richiesto acconto del 40% tramite bonifico",
+  "cond_13_3": "* Saldo il giorno del check-in",
+  "cond_13_4": "* Metodi accettati: bonifico, PayPal",
+
+
+
+
+  "privacyPolicy": {
+    "title": "Privacy Policy – Woods Etna Chalet",
+    "lastUpdate": "Ultimo aggiornamento: 27 ottobre 2025",
+    "intro": "Il presente sito web, dedicato alla struttura Woods Etna Chalet, ha esclusivamente finalità informativa e non raccoglie direttamente dati personali degli utenti.",
+    "sections": [
+      {
+        "heading": "1. Titolare del trattamento",
+        "content0": "Woods Etna Chalet ",
+        "content1": "Email di contatto: info@woodsetnachalet.it"
+      },
+      {
+        "heading": "2. Dati raccolti automaticamente",
+        "content0": "Durante la navigazione possono essere raccolti automaticamente alcuni dati in forma anonima e aggregata, come:",
+        "content1": "• indirizzo IP parzialmente anonimizzato",
+        "content2": "• tipo di dispositivo e browser utilizzato",
+        "content3": "• data e orario di accesso",
+        "content4": "Questi dati sono utilizzati solo per motivi tecnici e di sicurezza e non permettono l’identificazione dell’utente."
+      },
+      {
+        "heading": "3. Servizi esterni utilizzati",
+        "subsections": [
+          {
+            "subheading": "a) Google Maps (iframe)",
+            "content": "Il sito integra una mappa tramite iframe di Google Maps per mostrare la posizione della struttura. Google può impostare cookie tecnici essenziali per garantire il corretto funzionamento del servizio. Per maggiori informazioni: Google Privacy Policy."
+          },
+          {
+            "subheading": "b) Supabase (solo lettura)",
+            "content": "Il sito utilizza un servizio esterno (Supabase) per mostrare le disponibilità delle date già prenotate dello chalet. L’accesso avviene solo in lettura tramite anon key e non comporta raccolta di dati personali dell’utente."
+          },
+          {
+            "subheading": "c) Link esterni a social e contatti",
+            "content": "Il sito può includere pulsanti o link verso WhatsApp, Instagram, Facebook o altri servizi esterni. Cliccando su tali link l’utente viene reindirizzato fuori dal sito e il trattamento dei dati segue le rispettive policy dei servizi esterni."
+          },
+
+          {
+            "subheading": "d) Contatti tramite WhatsApp:",
+            "content": " Cliccando sul pulsante WhatsApp, l’utente può contattare direttamente la struttura tramite l’applicazione di WhatsApp. La gestione dei dati dei messaggi avviene secondo la privacy policy di WhatsApp/Meta: WhatsApp Privacy Policy."
+          }
+
+        ]
+      },
+      {
+        "heading": "4. Cookie",
+        "content": "Il sito utilizza solo cookie tecnici essenziali, necessari al funzionamento del sito e dei servizi sopra indicati. Non vengono utilizzati cookie di profilazione o tracciamento. Pertanto, non è richiesto il consenso preventivo da parte dell’utente."
+      },
+      {
+        "heading": "5. Diritti dell’utente",
+        "content": "L’utente può contattare il titolare all’indirizzo email sopra indicato per ottenere chiarimenti o esercitare i diritti previsti dagli artt. 15-22 del GDPR (accesso, cancellazione, limitazione, ecc.)."
+      }
+    ]
+  }
+}
